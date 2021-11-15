@@ -1,0 +1,48 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .jumbotron {
+    background-image: url('Bacteria_image.jpg');
+    background-size: 100%;
+    opacity: 0.8;
+    text-align: center;
+    color: black;
+  } 
+
+  .well {
+      background-color: azure;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: 100;
+      font-size: large;
+  }
+
+  .panel {
+      background-color: azure;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: large;
+      font-weight: 100;
+  }
+  
+  #overview {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: large;
+      text-align: center;
+  }
+
+  #otu {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: large;
+      text-align: center;
+  }
+
+  #scrubs {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: large;
+  }
+
+  #bubbles {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: large;
+  }
